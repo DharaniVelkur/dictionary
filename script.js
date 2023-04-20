@@ -29,7 +29,7 @@ document.body.innerHTML=`<div class="card">
   <p>Synonyms : ${synonyms}</p>
   <p>Antonyms : ${antonyms}</p>
   <a href=${refurl} target="_blank" class="btn btn-primary">Visit here to learn More</a>
-  <button class="btn btn-primary" onclick="myfunction()">Search another word</button>
+  <button class="btn btn-primary m-2" onclick="myfunction()">Search another word</button>
 </div>
 </div>`
 }
